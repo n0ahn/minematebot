@@ -1,0 +1,262 @@
+{
+    "enchantments": {
+        "helmet": {
+            "emoji": "�",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Protection", "level": "IV", "note": "Or Projectile/Blast/Fire Protection IV"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Respiration", "level": "III"},
+                {"name": "Aqua Affinity", "level": "I", "note": "Optional"},
+                {"name": "Thorns", "level": "III", "note": "Optional"}
+            ]
+        },
+        "chestplate": {
+            "emoji": "👕",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Protection", "level": "IV", "note": "Or Projectile/Blast/Fire Protection IV"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Thorns", "level": "III", "note": "Optional"}
+            ]
+        },
+        "leggings": {
+            "emoji": "👖",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Protection", "level": "IV", "note": "Or Projectile/Blast/Fire Protection IV"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Swift Sneak", "level": "III", "note": "Optional"},
+                {"name": "Thorns", "level": "III", "note": "Optional"}
+            ]
+        },
+        "boots": {
+            "emoji": "🥾",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Protection", "level": "IV", "note": "Or Projectile/Blast/Fire Protection IV"},
+                {"name": "Feather Falling", "level": "IV"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Depth Strider", "level": "III", "note": "Or Frost Walker II (not recommended)"},
+                {"name": "Soul Speed", "level": "III", "note": "Optional"},
+                {"name": "Thorns", "level": "III", "note": "Optional"}
+            ]
+        },
+        "sword": {
+            "emoji": "🗡️",
+            "enchants": [
+                {"name": "Sharpness", "level": "V", "note": "Or Bane of Arthropods V/Smite V (not recommended)"},
+                {"name": "Looting", "level": "III"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Mending", "level": "I"},
+                {"name": "Sweeping Edge", "level": "III", "note": "Java only, Optional"},
+                {"name": "Fire Aspect", "level": "II", "note": "Optional"},
+                {"name": "Knockback", "level": "II", "note": "Optional"}
+            ]
+        },
+        "axe": {
+            "emoji": "🪓",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Efficiency", "level": "V"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Sharpness", "level": "V"},
+                {"name": "Fortune", "level": "III", "note": "Optional, or use Silk Touch"}
+            ]
+        },
+        "pickaxe": {
+            "emoji": "⛏️",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Efficiency", "level": "V"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Silk Touch", "level": "I", "note": "Or Fortune III"}
+            ]
+        },
+        "shovel": {
+            "emoji": "🪣",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Efficiency", "level": "V"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Silk Touch", "level": "I", "note": "Or Fortune III"}
+            ]
+        },
+        "hoe": {
+            "emoji": "🌿",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Efficiency", "level": "V"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Silk Touch", "level": "I", "note": "Or Fortune III"}
+            ]
+        },
+        "bow": {
+            "emoji": "🏹",
+            "enchants": [
+                {"name": "Power", "level": "V"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Punch", "level": "II"},
+                {"name": "Flame", "level": "I", "note": "Optional"},
+                {"name": "Infinity", "level": "I", "note": "Optional, or Mending"}
+            ]
+        },
+        "crossbow": {
+            "emoji": "🎯",
+            "enchants": [
+                {"name": "Quick Charge", "level": "III"},
+                {"name": "Mending", "level": "I"},
+                {"name": "Unbreaking", "level": "III"},
+                {"name": "Piercing", "level": "IV", "note": "Optional, or Multishot"}
+            ]
+        },
+        "trident": {
+            "emoji": "🔱",
+            "enchants": [
+                {"name": "Impaling", "level": "V"},
+                {"name": "Mending", "level": "I"},
+                {"name": "Unbreaking", "level": "III", "note": "Optional"},
+                {"name": "Riptide", "level": "III", "note": "Optional, or Loyalty + Channeling"}
+            ]
+        },
+        "mace": {
+            "emoji": "🔨",
+            "enchants": [
+                {"name": "Density", "level": "V"},
+                {"name": "Breach", "level": "IV"},
+                {"name": "Wind Burst", "level": "III"},
+                {"name": "Mending", "level": "I"},
+                {"name": "Unbreaking", "level": "III"}
+            ]
+        },
+        "fishing_rod": {
+            "emoji": "🎣",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Lure", "level": "III"},
+                {"name": "Luck of the Sea", "level": "III"}
+            ]
+        },
+        "shield": {
+            "emoji": "🛡️",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Unbreaking", "level": "III"}
+            ]
+        },
+        "elytra": {
+            "emoji": "🪂",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Unbreaking", "level": "III"}
+            ]
+        },
+        "shears": {
+            "emoji": "✂️",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Unbreaking", "level": "III"}
+            ]
+        },
+        "flint_and_steel": {
+            "emoji": "🔥",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Unbreaking", "level": "III"}
+            ]
+        },
+        "brush": {
+            "emoji": "🖌️",
+            "enchants": [
+                {"name": "Mending", "level": "I"},
+                {"name": "Unbreaking", "level": "III"}
+            ]
+        },
+        "general": {
+            "emoji": "⭐",
+            "enchants": [
+                {"name": "Thorns", "level": "III", "note": "Optional on armor only"},
+                {"name": "Curse of Vanishing", "level": "I", "note": "Optional"},
+                {"name": "Curse of Binding", "level": "I", "note": "Optional"}
+            ]
+        }
+    },
+    "ore_levels": {
+        "diamond": {
+            "emoji": "💎",
+            "perfect_y": "-59",
+            "info": "Found between Y -64 and Y 16, with the most common level being -59."
+        },
+        "coal": {
+            "emoji": "⚫",
+            "perfect_y": "95",
+            "info": "Found throughout the world, but most concentrated above Y 0, especially at Y 95."
+        },
+        "copper": {
+            "emoji": "🟫",
+            "perfect_y": "48",
+            "info": "Found between Y -16 and Y 112, with the most common level at Y 48."
+        },
+        "iron": {
+            "emoji": "⛓️",
+            "perfect_y": "15",
+            "info": "Found in two main veins: Y -64 to Y 32 (most common at Y 15) and Y 255 to Y 128 (most common in mountains)."
+        },
+        "lapis": {
+            "emoji": "🔵",
+            "perfect_y": "0",
+            "info": "Found between Y -64 and Y 64, with the most common level at Y 0."
+        },
+        "redstone": {
+            "emoji": "🔴",
+            "perfect_y": "-59",
+            "info": "Found between Y -64 and Y 15, with the most common level at Y -59."
+        },
+        "gold": {
+            "emoji": "🟡",
+            "perfect_y": "-16",
+            "info": "Found between Y -64 and Y 32, with the most common level at Y -16. Most common in Badlands biomes at Y 255-Y 32."
+        },
+        "emerald": {
+            "emoji": "🟢",
+            "perfect_y": "255",
+            "info": "Found in mountains between Y -16 and Y 255. The higher you go, the more common they are."
+        },
+        "ancient_debris": {
+            "emoji": "🔥",
+            "perfect_y": "15",
+            "info": "Found in the Nether between Y 8 and Y 22, with the most common level at Y 15."
+        }
+    },
+    "facts": [
+        "Creepers were created by accident when Notch tried to make a pig but messed up the dimensions.",
+        "You can put a pumpkin on your head to avoid angering Endermen when looking at them.",
+        "A day in Minecraft lasts 20 minutes in real-time.",
+        "If you name a sheep 'jeb_' with a name tag, it will cycle through all wool colors.",
+        "The End Portal frame cannot be broken in Survival mode, even with a pickaxe.",
+        "Cats scare away Creepers, making them great pets for home protection.",
+        "Despite their size, Ghasts make very quiet ambient sounds when idle.",
+        "Wolves will attack any mob that harms their owner, except for Creepers.",
+        "If you fall from a great height, you can survive by landing in water, even if it's just one block deep.",
+        "Villagers have professions based on their job site block, such as a lectern for librarians.",
+        "The first version of Minecraft was created in just six days.",
+        "You can use honey blocks to reduce fall damage and move slower, useful for parkour.",
+        "Pandas can have different personalities, like lazy, aggressive, and playful.",
+        "Piglins love gold and won’t attack you if you wear at least one piece of gold armor.",
+        "The Wither is the only mob that can break obsidian blocks with its explosions.",
+        "The Far Lands, a bugged terrain generation from older versions, existed millions of blocks away from spawn.",
+        "Axolotls will help players fight underwater mobs like Drowned and Guardians.",
+        "In older versions, Zombies could turn villagers into Zombie Villagers without a cure.",
+        "Shulkers shoot projectiles that cause the Levitation effect, making players float.",
+        "The Ender Dragon heals itself using End Crystals on top of obsidian pillars.",
+        "You can ride a pig using a saddle, but you need a carrot on a stick to control it.",
+        "Tamed parrots will dance when music from a jukebox is playing nearby.",
+        "You can use campfires to cook food without needing fuel, but it takes longer.",
+        "Snow Golems leave a trail of snow wherever they walk, except in warm biomes.",
+        "You can break a boat and still get the boat back, making them a reusable transport item.",
+        "If lightning strikes a Creeper, it becomes a Charged Creeper with a much stronger explosion.",
+        "A turtle shell helmet grants the player 10 extra seconds of water breathing.",
+        "If a Skeleton kills a Creeper, the Creeper drops a music disc.",
+        "Hoes are the fastest tool for breaking leaves, despite being intended for farming."
+    ]
+}
